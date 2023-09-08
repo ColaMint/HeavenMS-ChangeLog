@@ -1,6 +1,6 @@
 {
   "version": 8,
-  "info": "[24 KB] 1. 支持删除角色（需要输入任意6位密码）2. 创建角色支持中文名（前提是你能打中文）3. 修复宽屏状态下队伍血条的位置",
+  "info": "[24 KB]\n1.支持删除角色（需要输入任意6位密码\n2.创建角色支持中文名（前提是你能打中文）\n3.修复宽屏状态下队伍血条的位置",
   "url": "https://ghproxy.com/https://raw.githubusercontent.com/ColaMint/HeavenMS-ChangeLog/test/client/8.zip",
   "code": "",
   "parser": "direct"
